@@ -1,0 +1,2 @@
+# Application-of-ML-in-house-price-prediction
+We preprocessed Melbourne house price data, extracted key features using Mellow's CP and Boruta methods, performed regression analysis using various machine learning methods such as Lasso, Ridge, random forest regression, and XGboost, and finally selected the best model and parameters based on RMSE, MAE, and r2_score evaluation metrics. Finally, we analyzed the prediction results and made suggestions for future model improvement and data collection. 
